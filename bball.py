@@ -121,8 +121,8 @@ for key in teamDic:
 
 sorted_x = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
-for i in range(10):
-	print sorted_x[i][0]
+for i in range(25):
+    print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
 
 
 
