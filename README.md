@@ -1,0 +1,4 @@
+DI
+==
+
+dominance index automated 
