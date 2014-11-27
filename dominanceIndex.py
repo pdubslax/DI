@@ -181,6 +181,20 @@ for key in teamDic:
 
 sorted_x = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
+import csv
+with open('finalDI.csv', 'w') as fp:
+    a = csv.writer(fp, delimiter=',')
+    for i in range(len(sorted_x)):
+		a.writerow([str(sorted_x[i][0]),str(sorted_x[i][1])])
+
+# import csv
+# with open('finalDI.csv', 'wb') as csvfile:
+#     spamwriter = csv.writer(csvfile, delimiter=' ',
+#                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#     for i in range(len(sorted_x)):
+# 		spamwriter.writerow([str(sorted_x[i][0]),str(sorted_x[i][1])])
+
+
 # for i in range(25):
 #     print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
 print '\n'
