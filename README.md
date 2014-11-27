@@ -1,7 +1,7 @@
 The Dominance Index
 ==
 
-An algorithm designed by Mark Edlund to more accurately ranking NCAA D1 College Basketball Teams. 
+An algorithm designed by Mark Edlund to more accurately rank NCAA D1 College Basketball Teams. 
 
 Implemented in python pulling live statistics from:
   http://realtimerpi.com/rpi_Men.html  
