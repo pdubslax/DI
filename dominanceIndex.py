@@ -181,14 +181,29 @@ for key in teamDic:
 
 sorted_x = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
-for i in range(25):
-    print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
-
-
-
-
-
-
+# for i in range(25):
+#     print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
+print '\n'
+name = raw_input('Enter your name: ')
+print '\n'+"Hello " + name +'! Welcome to the Dominance Index' + '\n'
+while (True):
+	command = raw_input('Enter your command: ')
+	if (command == 'help' or command == 'h'):
+		print "Try the following commands:"
+		print "     'h' or 'help' for documentation"
+		print "     'q' or 'quit' to exit the program"
+		print "     'p' or 'print' to print the top X in the index"
+	if (command == 'p' or command == 'print'):
+		print '\n'
+		command = raw_input('How many teams do you want to see? ')
+		top = int(command)
+		print '\n'
+		for i in range(top):
+			print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
+		print '\n'
+	if (command == 'q' or command == 'quit'):
+		print '\n'+"Good Bye. Come again soon." + '\n'
+		break
 
 # o.close()
 f3.close()
