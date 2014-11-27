@@ -47,8 +47,12 @@ for row in rows:
 
 		elif (start==1):
 			#the good rpi
-			newRPI = value+';'+'\n'
+			newRPI = value+';'
 			test.write(newRPI)
+
+		elif (start==3):
+			newConference = value+';'+'\n'
+			test.write(newConference)
 		start += 1 
 
 test.close()
@@ -57,12 +61,15 @@ f3 = open('rpi2.txt', 'rw')
 listOfRPI2 = {}
 for line in f3:
 	wordList = re.sub(";", " ",  line).split()
-	listOfRPI2[wordList[0]]=float(wordList[1])
+	listOfRPI2[wordList[0]]= {}
+	listOfRPI2[wordList[0]]["RPI"]=float(wordList[1])
+	listOfRPI2[wordList[0]]["Conf"]=(wordList[2])
+	
 
 
 
 def dominanceScore(opposingTeam, MOV, status):
-	rpi = listOfRPI2[listOfRPI[opposingTeam]]
+	rpi = listOfRPI2[listOfRPI[opposingTeam]]["RPI"]
 	if (status==0):
 		mult = 1
 	elif ((status==1 and MOV>0) or (status==2 and MOV<0) ):
@@ -177,9 +184,16 @@ for line in f:
 
 avg = {}
 for key in teamDic:
-	avg[key]=np.mean(teamDic[key]["schedule"])
+	avg[key] = {}
+	avg[key]["meanDI"]=np.mean(teamDic[key]["schedule"])
+	avg[key]["conference"]= listOfRPI2[listOfRPI[key]]["Conf"]
 
-sorted_x = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
+straightRank = {}
+for key in teamDic:
+	straightRank[key]=avg[key]["meanDI"]
+
+sorted_x = sorted(straightRank.items(), key=operator.itemgetter(1),reverse=True)
+sorted_y = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
 import csv
 with open('finalDI.csv', 'w') as fp:
@@ -187,16 +201,6 @@ with open('finalDI.csv', 'w') as fp:
     for i in range(len(sorted_x)):
 		a.writerow([str(sorted_x[i][0]),str(sorted_x[i][1])])
 
-# import csv
-# with open('finalDI.csv', 'wb') as csvfile:
-#     spamwriter = csv.writer(csvfile, delimiter=' ',
-#                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
-#     for i in range(len(sorted_x)):
-# 		spamwriter.writerow([str(sorted_x[i][0]),str(sorted_x[i][1])])
-
-
-# for i in range(25):
-#     print '#'+str(i+1)+': '+sorted_x[i][0]+' '+str(sorted_x[i][1])
 print '\n'
 name = raw_input('Enter your name: ')
 print '\n'+"Hello " + name +'! Welcome to the Dominance Index' + '\n'
@@ -207,6 +211,8 @@ while (True):
 		print "     'h' or 'help' for documentation"
 		print "     'q' or 'quit' to exit the program"
 		print "     'p' or 'print' to print the top X in the index"
+		print "     'c' or 'conf' to print the DI for a conference"
+		print "     'l' or 'list' to list the different conferences"
 	if (command == 'p' or command == 'print'):
 		print '\n'
 		command = raw_input('How many teams do you want to see? ')
@@ -218,7 +224,22 @@ while (True):
 	if (command == 'q' or command == 'quit'):
 		print '\n'+"Good Bye. Come again soon." + '\n'
 		break
-
+	if (command == 'c' or command == 'conf'):
+		print '\n'
+		command = raw_input('What conference do you want to see? ')
+		print '\n'
+		for i in range (len(sorted_y)):
+			if sorted_y[i][1]["conference"]==command:
+				print sorted_y[i][0] + ' ' + str(sorted_y[i][1]["meanDI"])
+		print '\n'
+	if (command == 'l' or command == 'list'):
+		print '\n'
+		confDic = {}
+		for i in range (len(sorted_y)):
+			if sorted_y[i][1]["conference"] not in confDic:
+				confDic[sorted_y[i][1]["conference"]] = 1
+				print sorted_y[i][1]["conference"]
+		print '\n' 
 # o.close()
 f3.close()
 f2.close()
