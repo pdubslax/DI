@@ -197,9 +197,13 @@ sorted_y = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
 import csv
 with open('finalDI.csv', 'w') as fp:
-    a = csv.writer(fp, delimiter=',')
-    for i in range(len(sorted_x)):
+	a = csv.writer(fp, delimiter=',')
+	for i in range(len(sorted_x)):
 		a.writerow([str(sorted_x[i][0]),str(sorted_x[i][1])])
+	a.writerow('')
+	for i in range(len(sorted_y)):
+		a.writerow([str(sorted_y[i][0]),str(sorted_y[i][1]["meanDI"]),str(sorted_y[i][1]["conference"])])
+
 
 print '\n'
 name = raw_input('Enter your name: ')
