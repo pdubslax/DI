@@ -195,6 +195,20 @@ for key in teamDic:
 sorted_x = sorted(straightRank.items(), key=operator.itemgetter(1),reverse=True)
 sorted_y = sorted(avg.items(), key=operator.itemgetter(1),reverse=True)
 
+confDic = {}
+for i in range (len(sorted_y)):
+	if sorted_y[i][1]["conference"] not in confDic:
+		confDic[sorted_y[i][1]["conference"]] = []
+		confDic[sorted_y[i][1]["conference"]].append(sorted_y[i][1]["meanDI"])
+	else:
+		confDic[sorted_y[i][1]["conference"]].append(sorted_y[i][1]["meanDI"])
+
+avgConfDic = {}
+for key in confDic:
+	avgConfDic[key] = np.mean(confDic[key])
+sorted_avgConfDic = sorted(avgConfDic.items(), key=operator.itemgetter(1),reverse=True)
+
+
 import csv
 with open('finalDI.csv', 'w') as fp:
 	a = csv.writer(fp, delimiter=',')
@@ -203,6 +217,9 @@ with open('finalDI.csv', 'w') as fp:
 	a.writerow('')
 	for i in range(len(sorted_y)):
 		a.writerow([str(sorted_y[i][0]),str(sorted_y[i][1]["meanDI"]),str(sorted_y[i][1]["conference"])])
+	a.writerow('')
+	for i in range(len(sorted_avgConfDic)):
+		a.writerow([str(sorted_avgConfDic[i][0]),str(sorted_avgConfDic[i][1])])
 
 
 print '\n'
@@ -245,6 +262,7 @@ while (True):
 				print sorted_y[i][1]["conference"]
 		print '\n' 
 # o.close()
+fp.close()
 f3.close()
 f2.close()
 f.close()
