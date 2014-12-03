@@ -544,8 +544,8 @@
 2014-11-23  Samford                  64  Missouri KC              55          Little Rock, AR
 2014-11-23  Miami FL                 77  Charlotte                58          Charleston, SC
 2014-11-24 @San Diego                77  W Michigan               70          
-2014-11-24  Kansas St                88  Purdue                   79          
-2014-11-24  Arizona                  72  Missouri                 53          
+2014-11-24  Kansas St                88  Purdue                   79          Lahaina, HI
+2014-11-24  Arizona                  72  Missouri                 53          Lahaina, HI
 2014-11-24 @Indiana St               61  Austin Peay              57          
 2014-11-24 @IPFW                     89  Jacksonville             71          
 2014-11-24 @Toledo                   92  Bucknell                 65          
@@ -569,30 +569,30 @@
 2014-11-24 @Belmont                  82  Lipscomb                 77          
 2014-11-24 @Illinois                 89  Brown                    68          
 2014-11-24  Lamar                    63 @Arkansas St              58          
-2014-11-24  San Francisco            88  Hawaii                   73          
+2014-11-24  San Francisco            88  Hawaii                   73          Estero, FL
 2014-11-24 @Marquette                62  NJIT                     57          
 2014-11-24 @New Mexico St            88  Stetson                  68          
 2014-11-24 @Wyoming                  66  Florida A&M              45          
-2014-11-24  Michigan                 70  Oregon                   63          
+2014-11-24  Michigan                 70  Oregon                   63          Brooklyn, NY
 2014-11-24 @Portland St              90  Edwardsville             87 O1       
-2014-11-24  WI Green Bay             66  East Carolina            49          
-2014-11-24  Evansville               58  Fresno St                52          
-2014-11-24  Georgia St               69  Chicago St               46          
-2014-11-24  Detroit                  69  MD E Shore               55          
-2014-11-24  FL Gulf Coast            58  Marist                   43          
-2014-11-24  Maryland                 78  Arizona St               73          
-2014-11-24  Villanova                77  VA Commonwealth          53          
-2014-11-24  Oklahoma St              66  Oregon St                53          
-2014-11-24  Iowa St                  84  Alabama                  74          
-2014-11-24  Tulsa                    53  Auburn                   35          
-2014-11-24  San Diego St             92  BYU                      87 O2       
-2014-11-24  WI Milwaukee             56  ULL                      52          
-2014-11-24  Weber St                 59  Nevada                   56          
-2014-11-24  Clemson                  64  LSU                      61          
-2014-11-24  Old Dominion             58  Gardner Webb             46          
-2014-11-24  Seton Hall               84  Illinois St              80          
+2014-11-24  WI Green Bay             66  East Carolina            49          Estero, FL
+2014-11-24  Evansville               58  Fresno St                52          Estero, FL
+2014-11-24  Georgia St               69  Chicago St               46          Oakland, MI
+2014-11-24  Detroit                  69  MD E Shore               55          Toledo, OH
+2014-11-24  FL Gulf Coast            58  Marist                   43          Estero, FL
+2014-11-24  Maryland                 78  Arizona St               73          Kansas City, MO
+2014-11-24  Villanova                77  VA Commonwealth          53          Brooklyn, NY
+2014-11-24  Oklahoma St              66  Oregon St                53          Las Vegas, NV
+2014-11-24  Iowa St                  84  Alabama                  74          Kansas City, MO
+2014-11-24  Tulsa                    53  Auburn                   35          Las Vegas, NV
+2014-11-24  San Diego St             92  BYU                      87 O2       Lahaina, HI
+2014-11-24  WI Milwaukee             56  ULL                      52          Las Vegas, NV
+2014-11-24  Weber St                 59  Nevada                   56          St. Thomas, VI
+2014-11-24  Clemson                  64  LSU                      61          St. Thomas, VI
+2014-11-24  Old Dominion             58  Gardner Webb             46          St. Thomas, VI
+2014-11-24  Seton Hall               84  Illinois St              80          St. Thomas, VI
 2014-11-25 @MTSU                     65  Northern Arizona         53          
-2014-11-25  North Florida            77  Liberty                  57          
+2014-11-25  North Florida            77  Liberty                  57          Riviera Maya, Mexico
 2014-11-25  Hartford                 54 @Quinnipiac               50          
 2014-11-25  St Peter's               68 @Rutgers                  50          
 2014-11-25 @Harvard                  84  Houston                  63          
@@ -631,39 +631,39 @@
 2014-11-25  Jacksonville St          67 @Alabama A&M              61          
 2014-11-25 @Vanderbilt               63  Norfolk St               53          
 2014-11-25 @Drake                    73  IUPUI                    60          
-2014-11-25  Boise St                 86  Idaho                    75          
+2014-11-25 @Boise St                 86  Idaho                    75          
 2014-11-25  Buffalo                  80 @Grand Canyon             64          
 2014-11-25  Miami FL                 77 @Charlotte                74          
 2014-11-25 @Colorado                 68  Air Force                53          
-2014-11-25  ULL                      76  Oral Roberts             52          
-2014-11-25  Northwestern             55  Miami OH                 46          
+2014-11-25  ULL                      76  Oral Roberts             52          Las Vegas, NV
+2014-11-25  Northwestern             55  Miami OH                 46          Riviera Maya, Mexico
 2014-11-25 @Stanford                 84  Delaware                 47          
 2014-11-25 @USC                      53  CS Fullerton             49          
-2014-11-25  Northern Iowa            73  Virginia Tech            54          
-2014-11-25  Elon                     74  Morgan St                73          
-2014-11-25  Georgia St               85  W Carolina               70          
-2014-11-25  Arizona                  72  Kansas St                68          
-2014-11-25  Villanova                60  Michigan                 55          
-2014-11-25  Maryland                 72  Iowa St                  63          
-2014-11-25  VA Commonwealth          77  Oregon                   63          
-2014-11-25  San Diego St             74  Pittsburgh               57          
-2014-11-25  East Carolina            58  Fresno St                52          
-2014-11-25  Purdue                   82  Missouri                 61          
-2014-11-25  Hawaii                   62  Marist                   55          
-2014-11-25  Bucknell                 58  MD E Shore               55          
-2014-11-25  WI Green Bay             64  Evansville               62          
+2014-11-25  Northern Iowa            73  Virginia Tech            54          Riviera Maya, Mexico
+2014-11-25  Elon                     74  Morgan St                73          Riviera Maya, Mexico
+2014-11-25  Georgia St               85  W Carolina               70          Oakland, MI
+2014-11-25  Arizona                  72  Kansas St                68          Lahaina, HI
+2014-11-25  Villanova                60  Michigan                 55          Brooklyn, NY
+2014-11-25  Maryland                 72  Iowa St                  63          Kansas City, MO
+2014-11-25  VA Commonwealth          77  Oregon                   63          Brooklyn, NY
+2014-11-25  San Diego St             74  Pittsburgh               57          Lahaina, HI
+2014-11-25  East Carolina            58  Fresno St                52          Estero, FL
+2014-11-25  Purdue                   82  Missouri                 61          Lahaina, HI
+2014-11-25  Hawaii                   62  Marist                   55          Estero, FL
+2014-11-25  Bucknell                 58  MD E Shore               55          Toledo, OH
+2014-11-25  WI Green Bay             64  Evansville               62          Estero, FL
 2014-11-25  Detroit                  82 @Toledo                   79          
-2014-11-25  Alabama                  76  Arizona St               71          
-2014-11-25  FL Gulf Coast            62  San Francisco            47          
-2014-11-26  North Dakota             75  Alabama St               68          
+2014-11-25  Alabama                  76  Arizona St               71          Kansas City, MO
+2014-11-25  FL Gulf Coast            62  San Francisco            47          Estero, FL
+2014-11-26  North Dakota             75  Alabama St               68          Salt Lake City, UT
 2014-11-26  Utah Valley              60 @Idaho St                 57          
 2014-11-26 @Chattanooga              61  Robert Morris            46          
 2014-11-26 @Belmont                  78  Denver                   57          
 2014-11-26  American Univ            64 @Hampton                  60          
 2014-11-26 @Kennesaw                 84  Samford                  71          
 2014-11-26 @James Madison            79  Sacred Heart             72          
-2014-11-26  Oklahoma                 75  UCLA                     65          
-2014-11-26  Coastal Car              61  ULM                      48          
+2014-11-26  Oklahoma                 75  UCLA                     65          Nassau, Bahamas
+2014-11-26  Coastal Car              61  ULM                      48          Chattanooga, TN
 2014-11-26 @Duke                     93  Furman                   54          
 2014-11-26 @Iona                    126  Delaware St              76          
 2014-11-26 @Cornell                  67  Canisius                 60          
@@ -674,7 +674,7 @@
 2014-11-26 @Wake Forest              83  Mt St Mary's             49          
 2014-11-26 @Louisville               45  Cleveland St             33          
 2014-11-26 @NC State                 84  Richmond                 72          
-2014-11-26  St John's                70  Minnesota                61          
+2014-11-26 @St John's                70  Minnesota                61          
 2014-11-26 @G Washington             91  Longwood                 66          
 2014-11-26 @Ohio St                  91  Campbell                 64          
 2014-11-26 @Youngstown St            66  Missouri KC              63          
@@ -682,7 +682,7 @@
 2014-11-26  Morehead St              77 @Marshall                 68          
 2014-11-26 @Vermont                  73  Bryant                   47          
 2014-11-26  Georgia St               83 @Oakland                  78          
-2014-11-26  West Virginia           103  VMI                      72          
+2014-11-26  West Virginia           103  VMI                      72          Charleston, WV
 2014-11-26 @TCU                      74  Radford                  50          
 2014-11-26 @SMU                      72  TX Southern              59          
 2014-11-26  Lehigh                   86 @DePaul                   74          
@@ -696,54 +696,247 @@
 2014-11-26 @Wyoming                  65  Stetson                  41          
 2014-11-26 @New Mexico St            78  Florida A&M              33          
 2014-11-26 @E Washington             81  N Kentucky               60          
-2014-11-26  Gonzaga                  88  Georgia                  76          
-2014-11-26  Georgetown               66  Florida                  65 O1       
+2014-11-26  Gonzaga                  88  Georgia                  76          New York, NY
+2014-11-26  Georgetown               66  Florida                  65 O1       Nassau, Bahamas
 2014-11-26 @UC Davis                 77  Utah St                  70 O1       
 2014-11-26 @California               72  Cal Poly SLO             52          
 2014-11-26  Portland St              63 @CS Northridge            55          
-2014-11-26  W Carolina               66  Chicago St               61          
-2014-11-26  Butler                   74  North Carolina           66          
-2014-11-26  Wisconsin                72  UAB                      43          
-2014-11-26  Colorado St              70  Missouri St              52          
-2014-11-26  Oral Roberts             69  WI Milwaukee             66          
-2014-11-26  Arizona                  61  San Diego St             59          
-2014-11-26  Marist                   68  Fresno St                64          
-2014-11-26  Morgan St                51  Liberty                  50          
-2014-11-26  Hawaii                   75  East Carolina            73          
-2014-11-26  North Florida            72  Elon                     65          
-2014-11-26  Purdue                   87  BYU                      85 O1       
-2014-11-26  Evansville               79  San Francisco            72          
-2014-11-26  Virginia Tech            78  Miami OH                 63          
-2014-11-26  Pittsburgh               70  Kansas St                47          
-2014-11-26  WI Green Bay             59  FL Gulf Coast            45          
-2014-11-26  Auburn                   71  Oregon St                69          
-2014-11-26  Northern Iowa            61  Northwestern             42          
-2014-11-26  Oklahoma St              73  Tulsa                    58          
-2014-11-27  Tennessee                64  Santa Clara              57          
-2014-11-27  Austin Peay              79  Brown                    58          
+2014-11-26  W Carolina               66  Chicago St               61          Oakland, MI
+2014-11-26  Butler                   74  North Carolina           66          Nassau, Bahamas
+2014-11-26  Wisconsin                72  UAB                      43          Nassau, Bahamas
+2014-11-26  Colorado St              76  Missouri St              61          Anchorage, AK
+2014-11-26  Oral Roberts             69  WI Milwaukee             66          Las Vegas, NV
+2014-11-26  Arizona                  61  San Diego St             59          Lahaina, HI
+2014-11-26  Marist                   68  Fresno St                64          Estero, FL
+2014-11-26  Morgan St                51  Liberty                  50          Riviera Maya, Mexico
+2014-11-26  Hawaii                   75  East Carolina            73          Estero, FL
+2014-11-26  North Florida            72  Elon                     65          Riviera Maya, Mexico
+2014-11-26  Purdue                   87  BYU                      85 O1       Lahaina, HI
+2014-11-26  Evansville               79  San Francisco            72          Estero, FL
+2014-11-26  Virginia Tech            78  Miami OH                 63          Riviera Maya, Mexico
+2014-11-26  Pittsburgh               70  Kansas St                47          Lahaina, HI
+2014-11-26  WI Green Bay             59  FL Gulf Coast            45          Estero, FL
+2014-11-26  Auburn                   71  Oregon St                69          Las Vegas, NV
+2014-11-26  Northern Iowa            61  Northwestern             42          Riviera Maya, Mexico
+2014-11-26  Oklahoma St              73  Tulsa                    58          Las Vegas, NV
+2014-11-27  Tennessee                64  Santa Clara              57          Kissimmee, FL
+2014-11-27  Austin Peay              79  Brown                    58          Las Vegas, NV
 2014-11-27 @SC Upstate               68  Florida Intl             53          
-2014-11-27  Stony Brook              73  Long Island              54          
-2014-11-27  Xavier                   82  San Diego                71          
-2014-11-27  Marquette                72  Georgia Tech             70          
-2014-11-27  Long Beach St            73  W Michigan               55          
-2014-11-27  SF Austin                73  Prairie View             61          
-2014-11-27  Kansas                   76  Rhode Island             60          
-2014-11-27  UTEP                     62  Princeton                56          
-2014-11-27  Illinois                 88  Indiana St               62          
-2014-11-27  W Kentucky               62  St Joseph's PA           59          
-2014-11-27  CS Fullerton             67  Wright St                62          
-2014-11-27  Michigan St              77  Rider                    45          
-2014-11-27  Mercer                   77  Rice                     71 O1       
-2014-11-27  Washington               78  San Jose St              56          
-2014-11-27  Baylor                   71  Memphis                  47          
-2014-11-27  Santa Barbara            71  Washington St            43          
-2014-11-27 @Colorado St              76  Missouri St              61          
-2014-11-27  Wisconsin                68  Georgetown               65          
-2014-11-27  North Carolina           78  UCLA                     56          
-2014-11-27  Florida                  56  UAB                      47          
-2014-11-27  Oklahoma                 59  Butler                   46          
-2014-11-27  Robert Morris            71 @ULM                      54          
+2014-11-27 @Stony Brook              73  Long Island              54          
+2014-11-27  Xavier                   82  San Diego                71          Fullerton, CA
+2014-11-27  Marquette                72  Georgia Tech             70          Kissimmee, FL
+2014-11-27  Long Beach St            73  W Michigan               55          Fullerton, CA
+2014-11-27  SF Austin                73  Prairie View             61          Las Vegas, NV
+2014-11-27  Kansas                   76  Rhode Island             60          Kissimmee, FL
+2014-11-27  UTEP                     62  Princeton                56          Fullerton, CA
+2014-11-27  Illinois                 88  Indiana St               62          Las Vegas, NV
+2014-11-27  W Kentucky               62  St Joseph's PA           59          New York, NY
+2014-11-27  CS Fullerton             67  Wright St                62          Spartanburg, SC
+2014-11-27  Michigan St              77  Rider                    45          Kissimmee, FL
+2014-11-27  Mercer                   77  Rice                     71 O1       Anchorage, AK
+2014-11-27  Washington               78  San Jose St              56          Fullerton, CA
+2014-11-27  Baylor                   71  Memphis                  47          Las Vegas, NV
+2014-11-27  Santa Barbara            71  Washington St            43          Anchorage, AK
+2014-11-27  Wisconsin                68  Georgetown               65          Nassau, Bahamas
+2014-11-27  North Carolina           78  UCLA                     56          Nassau, Bahamas
+2014-11-27  Florida                  56  UAB                      47          Nassau, Bahamas
+2014-11-27  Robert Morris            71  ULM                      54          Chattanooga, TN
+2014-11-27  Oklahoma                 59  Butler                   46          Nassau, Bahamas
 2014-11-27 @Chattanooga              78  Coastal Car              67          
+2014-11-28  Northern Arizona         70  Southern Univ            63 O1       Niceville, FL
+2014-11-28  Mississippi              75  Creighton                68          Niceville, FL
+2014-11-28 @Nebraska                 75  TN Martin                64          
+2014-11-28 @TX Southern              71  Lamar                    59          
+2014-11-28  Alabama St               91  TX Pan American          79          Salt Lake City, UT
+2014-11-28  Radford                  65  NC A&T                   57          Corpus Christi, TX
+2014-11-28 @Texas A&M                87  New Orleans              65          
+2014-11-28 @Dartmouth                68  IPFW                     67          
+2014-11-28  Penn St                  88 @Bucknell                 80          
+2014-11-28 @Providence               72  Yale                     66          
+2014-11-28 @TAM C. Christi           75  MS Valley St             66          
+2014-11-28 @Ohio St                  73  James Madison            56          
+2014-11-28  Norfolk St               72  St Francis NY            70 O1       Jersey City, NJ
+2014-11-28 @Florida St               58  Charleston So            47          
+2014-11-28 @SC Upstate               79  CS Fullerton             64          
+2014-11-28 @Maryland                 61  Monmouth NJ              56          
+2014-11-28 @Syracuse                 72  Holy Cross               48          
+2014-11-28 @Clemson                  62  High Point               59          
+2014-11-28 @Miami FL                 87  South Alabama            75          
+2014-11-28 @NC State                 60  Boise St                 54          
+2014-11-28  Delaware St              72 @Wake Forest              65          
+2014-11-28  Rutgers                  68  Vanderbilt               65          Brooklyn, NY
+2014-11-28 @Jacksonville St          74  Savannah St              71          
+2014-11-28 @St Peter's               66  Tennessee St             58          
+2014-11-28 @Louisiana Tech           77  Samford                  64          
+2014-11-28  Hofstra                  86 @Jackson St               56          
+2014-11-28  Cleveland St             68 @Marshall                 59          
+2014-11-28 @Tulane                   71  SE Louisiana             61          
+2014-11-28 @N Colorado               82  Stetson                  62          
+2014-11-28 @Indiana                  87  UNC Greensboro           79          
+2014-11-28 @Arkansas                 89  North Texas              73          
+2014-11-28 @Montana St              104  UT Arlington             81          
+2014-11-28  Mississippi St           75  St Louis                 50          Corpus Christi, TX
+2014-11-28 @Utah                     90  North Dakota             53          
+2014-11-28  TCU                      57  Bradley                  49          Corpus Christi, TX
+2014-11-28  NC Central               65  E Illinois               40          Niceville, FL
+2014-11-28  Florida Intl             61  Wright St                59 O1       Spartanburg, SC
+2014-11-28  Cincinnati               69  MTSU                     51          Niceville, FL
+2014-11-28  Valparaiso               66  Drake                    46          Nashville, TN
+2014-11-28  Portland                 64  Murray St                61          Nashville, TN
+2014-11-28  Virginia                 64  La Salle                 56          Brooklyn, NY
+2014-11-28  Wisconsin                69  Oklahoma                 56          Nassau, Bahamas
+2014-11-28  North Carolina           75  Florida                  64          Nassau, Bahamas
+2014-11-28  Gonzaga                  73  St John's                66          New York, NY
+2014-11-28  Kansas                   82  Tennessee                67          Kissimmee, FL
+2014-11-28  Michigan St              79  Marquette                68          Kissimmee, FL
+2014-11-28  UCLA                     88  UAB                      76          Nassau, Bahamas
+2014-11-28  Butler                   64  Georgetown               58          Nassau, Bahamas
+2014-11-28  Rhode Island             66  Santa Clara              44          Kissimmee, FL
+2014-11-28  Brown                    81  Prairie View             71          Las Vegas, NV
+2014-11-28  UTEP                     77  Xavier                   73          Fullerton, CA
+2014-11-28  Minnesota                66  Georgia                  62          New York, NY
+2014-11-28  SF Austin                83  Austin Peay              62          Las Vegas, NV
+2014-11-28  San Diego                75  Princeton                65          Fullerton, CA
+2014-11-28  Washington St            76  Rice                     74          Anchorage, AK
+2014-11-28  Georgia Tech             61  Rider                    54          Kissimmee, FL
+2014-11-28  Memphis                  72  Indiana St               62          Las Vegas, NV
+2014-11-28  W Michigan               79  San Jose St              60          Fullerton, CA
+2014-11-28  Colorado St              75  Pacific                  64          Anchorage, AK
+2014-11-28  Illinois                 62  Baylor                   54          Las Vegas, NV
+2014-11-28  Washington               80  Long Beach St            70          Fullerton, CA
+2014-11-28  Santa Barbara            65  Mercer                   60 O1       Anchorage, AK
+2014-11-29 @West Virginia            86  Col Charleston           57          
+2014-11-29  TX Pan American          78  North Dakota             60          Salt Lake City, UT
+2014-11-29 @Wichita St               75  Tulsa                    55          
+2014-11-29 @Arizona St               78  Colgate                  71          
+2014-11-29  Belmont                  83 @Ohio                     81          
+2014-11-29 @Dayton                   75  IL Chicago               41          
+2014-11-29 @Utah                     93  Alabama St               62          
+2014-11-29 @Kennesaw                 77  Chattanooga              69          
+2014-11-29  Georgia St               66 @IUPUI                    63          
+2014-11-29  St Francis PA            85 @Navy                     68          
+2014-11-29 @C Michigan               79  Grand Canyon             77          
+2014-11-29  Towson                   77 @UMBC                     66          
+2014-11-29 @South Florida            79  Jacksonville             65          
+2014-11-29 @NE Omaha                 78  Nevada                   54          
+2014-11-29 @Notre Dame               90  Chicago St               42          
+2014-11-29 @Iowa                     77  Longwood                 44          
+2014-11-29  NJIT                     84 @Duquesne                 81          
+2014-11-29 @Davidson                 72  UNC Wilmington           49          
+2014-11-29 @Harvard                  75  Massachusetts            73          
+2014-11-29  Cornell                  68 @Binghamton               54          
+2014-11-29 @Ga Southern              71  S Carolina St            58          
+2014-11-29 @Northeastern             57  Fairfield                48          
+2014-11-29 @Illinois St              85  Youngstown St            73 O1       
+2014-11-29 @George Mason             64  Manhattan                63          
+2014-11-29 @Columbia                 52  American Univ            43          
+2014-11-29 @Seton Hall               58  G Washington             54          
+2014-11-29  MD E Shore               72 @Fordham                  66          
+2014-11-29 @Wagner                   64  Penn                     61          
+2014-11-29 @Ark Little Rock          85  Cent Arkansas            71          
+2014-11-29 @Michigan                 91  Nicholls St              62          
+2014-11-29 @UC Riverside             76  Abilene Chr              56          
+2014-11-29  Buffalo                  72  Canisius                 57          Buffalo, NY
+2014-11-29 @William & Mary           66  Wofford                  62          
+2014-11-29  Stetson                  62  Florida A&M              50          Greeley, CO
+2014-11-29  Wright St                56 @SC Upstate               51          
+2014-11-29 @Wyoming                  78  New Mexico St            75          
+2014-11-29  Siena                    81 @Loyola MD                71          
+2014-11-29  Loyola-Chicago           69 @Kent                     61          
+2014-11-29 @Oakland                  81  Toledo                   79          
+2014-11-29 @Old Dominion             73  VA Commonwealth          67          
+2014-11-29 @SE Missouri St           85  Alabama A&M              51          
+2014-11-29 @LSU                      83  McNeese St               72          
+2014-11-29 @BYU                      90  E Kentucky               76          
+2014-11-29  N Kentucky               79 @Idaho                    74          
+2014-11-29 @Seattle                  70  CS Northridge            58          
+2014-11-29 @UNLV                     75  Albany NY                59          
+2014-11-29 @St Mary's CA             82  Cal Poly SLO             56          
+2014-11-29 @UC Davis                 64  Utah Valley              43          
+2014-11-29  UC Irvine                80 @Loy Marymount            72          
+2014-11-29  St Bonaventure           74  Niagara                  59          Buffalo, NY
+2014-11-29  CS Fullerton             64  Florida Intl             61          Spartanburg, SC
+2014-11-29  Portland                 71  Drake                    59          Nashville, TN
+2014-11-29  Valparaiso               93  Murray St                58          Nashville, TN
+2014-11-29  Virginia                 45  Rutgers                  26          Brooklyn, NY
+2014-11-29  Creighton                57  MTSU                     47          Niceville, FL
+2014-11-29  MS Valley St             66  NC A&T                   63          Corpus Christi, TX
+2014-11-29  E Illinois               54  Southern Univ            43          Niceville, FL
+2014-11-29  Radford                  57 @TAM C. Christi           46          
+2014-11-29  NC Central               40  Northern Arizona         36          Niceville, FL
+2014-11-29  St Louis                 60  Bradley                  57          Corpus Christi, TX
+2014-11-29  St Francis NY            59  Tennessee St             57          Jersey City, NJ
+2014-11-29  Washington St            89  Missouri St              84 O1       Anchorage, AK
+2014-11-29  Vanderbilt               68  La Salle                 55          Brooklyn, NY
+2014-11-29  TCU                      61  Mississippi St           52          Corpus Christi, TX
+2014-11-29  Norfolk St               60 @St Peter's               58          
+2014-11-29  Mississippi              66  Cincinnati               54          Niceville, FL
+2014-11-29  Pacific                  55  Mercer                   48          Anchorage, AK
+2014-11-29  Colorado St              65  Santa Barbara            63          Anchorage, AK
+2014-11-30  Texas                    55 @Connecticut              54          
+2014-11-30 @Duke                     93  Army                     73          
+2014-11-30  Southern Utah            93 @UT San Antonio           92          
+2014-11-30 @Quinnipiac               89  Vermont                  73          
+2014-11-30  MA Lowell                69 @Boston Univ              59          
+2014-11-30  Elon                     70 @Miami OH                 68          
+2014-11-30 @Texas Tech               63  Air Force                62          
+2014-11-30 @East Carolina            74  Central Conn             59          
+2014-11-30  Lafayette                82 @F Dickinson              61          
+2014-11-30 @N Illinois               61  Maine                    56          
+2014-11-30 @Kentucky                 58  Providence               38          
+2014-11-30 @Colorado                 84  Lipscomb                 75          
+2014-11-30  Charlotte                66 @UNC Asheville            63 O1       
+2014-11-30 @Yale                     69  Hartford                 57          
+2014-11-30 @DePaul                   87  Stanford                 72          
+2014-11-30 @Northern Iowa            55  Richmond                 50          
+2014-11-30 @Denver                   79  New Orleans              60          
+2014-11-30  Bowling Green            64 @Detroit                  63          
+2014-11-30 @Virginia Tech            83  Morgan St                63          
+2014-11-30  New Hampshire            65 @Dartmouth                63          
+2014-11-30 @Arkansas                 94  Iona                     77          
+2014-11-30 @Sacred Heart             71  Campbell                 62          
+2014-11-30 @N Colorado               95  Florida A&M              56          
+2014-11-30 @Temple                   70  Long Island              56          
+2014-11-30  USC                      66 @New Mexico               54          
+2014-11-30 @Villanova                78  Delaware                 47          
+2014-11-30  FL Gulf Coast            71  S Dakota St              58          Sioux Falls, SD
+2014-11-30 @Akron                    72  Bryant                   66          
+2014-11-30 @Drexel                   59  Southern Miss            36          
+2014-11-30 @San Francisco            76  Montana                  57          
+2014-11-30 @UCF                      75  Bethune-Cookman          67          
+2014-11-30 @Maryland                 95  VMI                      77          
+2014-11-30  California               64 @Fresno St                57          
+2014-11-30 @SMU                      63  Monmouth NJ              51          
+2014-11-30  South Dakota             68 @CS Bakersfield           66          
+2014-11-30  N Dakota St              72 @Montana St               51          
+2014-11-30 @Oregon                   81  Portland St              59          
+2014-11-30 @Tulane                   73  Tennessee Tech           68          
+2014-11-30  Valparaiso               70  Portland                 55          Nashville, TN
+2014-11-30  Murray St                68  Drake                    59          Nashville, TN
+2014-11-30  Kansas                   61  Michigan St              56          Kissimmee, FL
+2014-11-30  Santa Clara              68  Rider                    60          Kissimmee, FL
+2014-11-30  W Michigan               68  San Diego                66          Anaheim, CA
+2014-11-30  Marquette                67  Tennessee                59          Kissimmee, FL
+2014-11-30  Long Beach St            73  Xavier                   70          Anaheim, CA
+2014-11-30  Georgia Tech             64  Rhode Island             61          Kissimmee, FL
+2014-11-30  Princeton                69  San Jose St              54          Anaheim, CA
+2014-11-30  Washington               68  UTEP                     65          Anaheim, CA
+2014-12-01 @Boston College           79  Marist                   61          
+2014-12-01 @Fordham                  69  Siena                    67          
+2014-12-01  Bucknell                 72 @Fairfield                66 O1       
+2014-12-01  Rutgers                  69 @Clemson                  64          
+2014-12-01  Nebraska                 70 @Florida St               65          
+2014-12-01  High Point               76 @UNC Greensboro           68          
+2014-12-01  ETSU                     63 @Morehead St              59          
+2014-12-01 @Liberty                  66  Furman                   52          
+2014-12-01 @Winthrop                 68  Savannah St              47          
+2014-12-01 @Charleston So            72  W Carolina               66          
+2014-12-01  South Carolina           77 @Marshall                 59          
+2014-12-01 @Samford                  76  Jacksonville             70 O1       
+2014-12-01  Arkansas St              67 @Cent Arkansas            49          
+2014-12-01 @Baylor                   75  TX Southern              49          
+2014-12-01 @Weber St                 62  Oral Roberts             61          
+2014-12-01 @CS Sacramento            65  Utah Valley              56          
 
-Games: 746
+Games: 939
 

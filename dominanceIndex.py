@@ -78,7 +78,7 @@ def dominanceScore(opposingTeam, MOV, status):
 		mult = 1.3
 
 	if (MOV<0):
-		finalResult = MOV*(1 - (rpi**3))*mult
+		finalResult = MOV*((1 - rpi)**3)*mult
 	else:
 		finalResult = MOV*(rpi**3)*mult
 	return finalResult
